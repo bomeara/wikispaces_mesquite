@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+session.wikispaces.com	TRUE	/1	FALSE	1999999999	master	2%7Cec7c494e8d57ea240d0d6948fc5f9646
+mesquiteproject.wikispaces.com	TRUE	/	FALSE	1999999999	test	1
+mesquiteproject.wikispaces.com	TRUE	/	FALSE	1999999999	serverid	w24-prod
+session.wikispaces.com	TRUE	/	FALSE	1999999999	serverid	w24-prod
+mesquiteproject.wikispaces.com	TRUE	/	FALSE	1999999999	slave	e%3A7d0e5b90a7e8e33ed8583b420f07aa45%3A143b2e4bb2ecae035e067f08cfa2429ffc3184ebd17ccf1677696352fdb88484270aaf12f7af9f6b15bea9f4e893e729a83fb5007f4de110cbd96455924f03134cbe4dcb169c12c2358e895652ce243877ce0e1feac374e54a037a7bbc662b888124972e1703abe888d37ecf0b5138f0d9bbff6abf959dd2b9c7d6fb488b4db5
+mesquiteproject.wikispaces.com	TRUE	/	FALSE	1999999999	last_lesson	201128930
+
