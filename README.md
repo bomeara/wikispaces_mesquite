@@ -1,6 +1,8 @@
 # wikispaces_mesquite
 Backup of Mesquite help before wikispaces goes down
 
+You can see the backup at https://bomeara.github.io/wikispaces_mesquite/
+
 backed up using
 
 ```
